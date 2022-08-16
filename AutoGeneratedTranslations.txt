@@ -23,6 +23,28 @@ Paused=일시 정지
 Resume=다시 시작
 Search...=검색...
 Enter text...=텍스트 입력...
+To Town=마을로 귀환
+Consumables=소모품
+Path Choosen=길을 선택하였습니다
+Fight!=전투!
+Activate=활성화
+Party Event=파티 이벤트
+Open=열기
+Battle Rewards=전투 보상
+Items Received=받은 아이템
+Claim your reward!=보상을 받으세요!
+Leave=떠나기
+Investigate
+Harvest=수확
+Quest Reward=퀘스트 보상
+Start Quest=퀘스트 수락
+Equip=장착
+Split=나누기
+Destroy=제거
+Link In Chat=아이템 확성기
+Equipped=장착 중
+Stats=스텟
+Character=캐릭터
 
 
 
@@ -45,7 +67,7 @@ Video=비디오
 Controls=컨트롤
 Back=뒤로
 Settings=설정
-Accept=저장 후 메뉴로
+Accept=수락
 Set Default=기본값 설정
 Apply=적용
 
@@ -279,6 +301,9 @@ In town there are various <color\=#CBB396>Shops</color> you can visit and spend 
 #돈 보내기
 Cannot Send Gold=골드를 보낼 수 없습니다.
 There are no available recipients.=골드를 받을 사람이 없습니다.
+Send Gold=골드 보내기
+Send=보내기
+Okey=확인
 
 
 

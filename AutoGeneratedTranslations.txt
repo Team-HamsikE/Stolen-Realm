@@ -1,5 +1,5 @@
-﻿Loading...=로딩 중...
- Difficulty Balancing=난이도 밸런스 조절
+Loading...=로딩 중...
+Difficulty Balancing=난이도 밸런스 조절
 Stolen Realm is in early access. Our latest update has given bosses all new exciting themed mechanics to challenge everyone. <color\=#CBB396>Experience</color> and epic <color\=#CBB396>Loot</color> have been increased to match! We hope you enjoy and look forward to your feedback.\n\nWe've also renamed the difficulties and added descriptions to help you find the perfect challenge level for your adventure.=Stolen Realm은 얼리억세스 중입니다. 모든 사람이 도전할 수 있는 흥미로운 주제들을 계속 업데이트 하고 있습니다. 다양한 <color\=#CBB396>난이도</color>와 그에 걸맞는 <color\=#CBB396>전리품</color>이 추가 되었습니다! 즐거운 시간 되시길 바라며, 여러분의 피드백을 기다리겠습니다.\r\n\r\n한국어 번역: LowJhin, 한서화.
 
 #메인(메뉴)

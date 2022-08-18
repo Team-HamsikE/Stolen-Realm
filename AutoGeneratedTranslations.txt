@@ -2,6 +2,25 @@ Loading...=로딩 중...
 Difficulty Balancing=난이도 밸런스 조절
 Stolen Realm is in early access. Our latest update has given bosses all new exciting themed mechanics to challenge everyone. <color\=#CBB396>Experience</color> and epic <color\=#CBB396>Loot</color> have been increased to match! We hope you enjoy and look forward to your feedback.\n\nWe've also renamed the difficulties and added descriptions to help you find the perfect challenge level for your adventure.=Stolen Realm은 얼리억세스 중입니다. 모든 사람이 도전할 수 있는 흥미로운 주제들을 계속 업데이트 하고 있습니다. 다양한 <color\=#CBB396>난이도</color>와 그에 걸맞는 <color\=#CBB396>전리품</color>이 추가 되었습니다! 즐거운 시간 되시길 바라며, 여러분의 피드백을 기다리겠습니다.\r\n\r\n한국어 번역: LowJhin, 한서화.
 
+
+
+
+#팁
+Activate Portal=포탈 활성화
+Move up to and click on the <color\=#CBB396>Portal</color> to activate it.=<color\=#CBB396>포탈</color>을 클릭하면 <color\=#CBB396>다른 지역</color>으로 이동할 수 있습니다.
+Talestone Town=시작의 마을\n(Talestone Town)
+In town there are various <color\=#CBB396>Shops</color> you can visit and spend your gold at.  When your party is ready, activate the <color\=#CBB396>Portal</color> for a new quest.=마을에선 <color\=#CBB396>상점</color>에 들려 골드를 사용할 수 있고, 파티원들이 전부 준비가 되었다면 <color\=#CBB396>포탈</color>을 활성화 해 새로운 임무를 받을 수 있습니다.
+Add To Party=파티에 멤버 추가
+To add a character to the <color\=#CBB396>Party</color>, first select the character tile, then click <color\=#CBB396>Add</color>.\n\n<color\=#CBB396>Difficulty</color> scales with the number of characters in your party.=캐릭터를 <color\=#CBB396>파티</color>에 추가하려면, 먼저 원하는 캐릭터를 선택한 다음 <color\=#CBB396>파티 참가</color>버튼을 누르면 됩니다.\n\n선택한 게임의 <color\=#CBB396>난이도</color>에 따라, 파티의 최대 인원수가 정해집니다.
+After you have finished assigning characters to your party, press <color\=#CBB396>Accept Party</color>.=파티에 캐릭터를 할당한 후 다음을 누르십시오. <color\=#CBB396>파티 편성 완료</color>.
+Skill Allocation=스킬 할당
+You can use <color\=#CBB396>Skill Points</color> to learn skills.  Click on skill icons to assign and unassign skill points.=사용할 수 있습니다. <color\=#CBB396>스킬 포인트</color> 기술을 배우려고.  스킬 포인트를 할당하거나 할당 취소하려면 스킬 아이콘을 클릭합니다.
+Destructibles=파괴 가능 오브젝트
+You'll find <color\=#CBB396>Barrels</color>, <color\=#CBB396>Crates</color>, and other destructible objects around the battlefield.  You can use <color\=#CBB396>Move Object</color> to move them to strategic locations to help you in battle.=전투가 가능한 맵 곳곳에서 <color\=#CBB396>나무 통</color>이나, <color\=#CBB396>나무 상자</color>같은 파괴 가능한 오브젝트를 찾을 수 있습니다. <color\=#CBB396>오브젝트 이동</color>을 사용하여 전투에 도움이 되는 전략적 위치로 이동할 수 있습니다.
+
+
+
+
 #메인(메뉴)
 Single Player=싱글 플레이어
 Multiplayer=멀티 플레이어
@@ -13,6 +32,7 @@ Exit Game=게임 종료
 Battle\nHard Battle\nEvent\nTreasure\nShop\nMaterials\nRest\nBoss\n\n=전투\r\n전투(하드)\r\n이벤트\r\n보물\r\n상점\r\n재료\r\n휴식\r\n보스\n\n
 Leave=나가기
 Continue=계속
+Move Object=오브젝트 이동
 Shrine of the Conqueror=정복자의 사당
 End Turn=턴 종료
 Breezywind Village=산들바람 마을
@@ -25,16 +45,9 @@ Search...=검색...
 Enter text...=텍스트 입력...
 To Town=마을로 귀환
 Consumables=소모품
-Path Choosen=길을 선택하였습니다
-Fight!=전투!
-Activate=활성화
-Party Event=파티 이벤트
-Open=열기
-Battle Rewards=전투 보상
-Items Received=받은 아이템
-Claim your reward!=보상을 받으세요!
-Leave=떠나기
-Investigate
+Path Chosen=선택한 경로
+[Fight!]=[전투!]
+investigate=조사
 Harvest=수확
 Quest Reward=퀘스트 보상
 Start Quest=퀘스트 수락
@@ -45,6 +58,25 @@ Link In Chat=아이템 확성기
 Equipped=장착 중
 Stats=스텟
 Character=캐릭터
+Character Presets=캐릭터 프리셋
+Select a <color\=#CBB396>Character Preset</color> that best suits as a starting point for the character you want to make.=<color\=#CBB396>캐릭터 프리셋</color>으로 이미 만들어진 캐릭터 프리셋을 가져와 당신의 모험을 시작할 수 있습니다.
+Stat Points=스텟 포인트
+Allocate <color\=#CBB396>Stat Points</color> by pressing the "-" and "+" buttons next to each stat.  Hover over stat labels to examine how they affect your character.=시작 스텟은 <color\=#CBB396>각 스텟</color>의 옆에 있는 "-", "+" 버튼을 눌러 수정할 수 있습니다.  스텟에 마우스를 올려 놓으면 캐릭터가 해당 스텟으로 무슨 효과를 받는지 알 수 있습니다.
+Choose Skills=스킬 선택
+Select the <color\=#CBB396>Skills</color> you want your new character to start with.=캐릭터가 가지고 시작할 <color\=#CBB396>스킬</color>을 고를 수 있습니다.
+Click the <color\=#CBB396>Next</color> button to continue.=<color\=#CBB396>다음</color> 버튼을 눌러 계속 진행합니다.
+Skill Tabs=스킬 목록
+Select a <color\=#CBB396>Skill Tab</color> to display the skills in it's tree.=<color\=#CBB396>스킬 목록</color>에서 원하는 스킬을 고르십시오.
+Abandon Quest?=퀘스트를 포기하시겠습니까?
+You haven't completed the quest yet.  Are you sure you want to return to town?=퀘스트를 완료하지 못했습니다. 정말로 마을로 돌아가시겠습니까?
+Available Skills=사용 가능한 스킬
+No Skills Available=사용 가능한 스킬이 없습니다
+Surrender=도망가기
+Are you sure you want to surrender?=전투에서 도망치시겠습니까?
+Your party lost the last battle.  How would you like to proceed?=방금 전 전투에서 패배하였습니다. 이제 무엇을 하시겠습니까?
+Retry=다시 도전한다
+Abandon Quest=퀘스트를 포기하고 마을로 돌아간다
+Lower Difficulty=난이도를 낮춘다
 
 
 
@@ -199,7 +231,7 @@ Current Difficulty=현재 난이도
 Casual=캐주얼
 You’re here for excitement and fantasy, but not too much of a challenge.=당신은 환상적인 모험을 위해 찾아왔습니다.\n이 장르의 게임을 처음하는 사람에게 추천합니다.
 Adventurer=모험가
-You want adventurous but forgiving challenges that reward clever builds and clever tactics.=여러분은 영리한 체격과 영리한 전술에 보답하는 모험적이지만 용서받는 도전을 원합니다.
+You want adventurous but forgiving challenges that reward clever builds and clever tactics.=여러분은 여러분의 전술에 보답하는 모험적이지만, 자신의 실수는 용서받는 도전을 원합니다.
 Classic=클래식
 You are not new to tactical RPGs. You are experienced and ready for the dangers to come.=이 장르에 익숙해진 사람을 위한 난이도입니다.\n다가올 위험을 대처할 수 있는 사람에게 말이죠.
 Veteran=베테랑
@@ -239,11 +271,50 @@ Reflex=민첩
 Points\nLeft=남은\r\n포인트
 
 Physical Damage=물리 데미지
+Ice Damage=속성(얼음) 데미지
+Fire Damage=속성(불) 데미지
+
+Magic Armor=마법 방어
+Resist Fire=불 저항
+Resist Cold=얼음 저항
+Resist Lightning=번개 저항
 Resist Physical=물리 저항
+
+Attack Power=물리 공격력
+Spell Power=마법 공격력
+Damage Modifier=데미지 추가 계수
+Mana Cost Modifier=마나 소모 계수
+Skill Range Modifier=스킬 사거리 계수
+Movement Points=이동 가능 칸 수
+Crit Chance=크리티컬 확률
+Crit Damage=크리티컬 데미지
+
+Life Steal=흡혈
+Mana Steal=마나 흡착
+Health Recovery=체력 재생
+Mana Recovery=마나 재생
+Damage Reduction=데미지 감소
+Healing Received=받는 회복량 증가
+
+Summon Damage=소환수 데미지
+Summon Health=소환수 체력
+Summon Resistance=소환수 저항력
+Summon Limit Bonus=소환수 제한 보너스
+
+Dodge Chance=회피 확률
+Dodge Counter=회피 카운터 확률
+
 Spell Damage=마법 데미지
 Cold Damage=얼음 데미지
 Fire Damage=불 데미지
-Magic Armor=마법저항
+Lightning Damage=번개 데미지
+Shadow Damage=어둠 데미지
+Damage to Physical=물리 피해 추가데미지
+Damage to Fire=불 피해 추가데미지
+Damage to Cold=얼음 피해 추가데미지
+Damage to Lightning=번개 피해 추가데미지
+Damage to Shadow=어둠 피해 추가데미지
+Healing Given=회복량 증가
 
 Next=다음
 Skills=스킬
@@ -289,11 +360,6 @@ Confirm=확정
 
 #캐릭터(초기화)
 Are You Sure?=확실합니까?
-#팁
-Activate Portal=포탈 활성화
-Move up to and click on the <color\=#CBB396>Portal</color> to activate it.=<color\=#CBB396>포탈</color>을 클릭하면 <color\=#CBB396>다른 지역</color>으로 이동할 수 있습니다.
-Talestone Town=시작의 마을\n(Talestone Town)
-In town there are various <color\=#CBB396>Shops</color> you can visit and spend your gold at.  When your party is ready, activate the <color\=#CBB396>Portal</color> for a new quest.=마을에선 <color\=#CBB396>상점</color>에 들려 골드를 사용할 수 있고, 파티원들이 전부 준비가 되었다면 <color\=#CBB396>포탈</color>을 활성화 해 새로운 임무를 받을 수 있습니다.
 
 
 
@@ -308,14 +374,15 @@ Okey=확인
 
 
 #맵
-The Bandit=도적의 은둔처
-Through the Darkest Wood=검게 물든 숲
-The Mountain Pass=깊은 산 길
-The Butcher=어둠이 내려앉은 산
+The Bandit=도적
+Through the Darkest Wood=검게 물든 숲의 괴물
+The Mountain Pass=깊은 산의 수문장
+The Butcher=도살자
 Guardian of the Passage=협곡의 수문장
-Living Stone=살아 움직이는 바위
+Living Stone=리빙 스톤
 Ember Thieves=도적 잔당
 King Under the Mountain=아랫 숲의 왕
+Dillema near Lowestoft=피에 물든 가면들의 딜레마
 
 You are currently in Talestone Town=이미 시작의 마을에 있습니다.
 Completed=완료됨
@@ -346,15 +413,18 @@ Sort by Rarity=정렬 기준: 희귀도
 Sort by Completion=정렬 기준: 완성 가능
 Required Materials: 필요 재료
 Gareth's Trinkets=가드너의 세공점
+Jeweler=보석 세공인
 Greeting traveler!  Fancy a mystical amulet or enchanted ring?  You've come to the right place!=어서오게! 특별한 아뮬렛이나 반지를 찾고있나? 제대로 찾아온걸세!
 Come see the finest jewelry in all the Stolen Realm!=잊혀진 왕국 최고의 세공사인 내 작품을 구경해보지 않겠는가?
 Mali's Concoctions=말리의 공방
+Potion Maker=포션 양조사
 No, I do not sell love potions.=안타깝지만, 사랑의 묘약은 판매하고 있지 않아요.
 Take a look at my wares.  A good potion can turn the tide of battle!=뛰어난 포션은 전투의 판도를 뒤집을 수 있죠.
 Zarek's Armory=제릭의 대장간
 You look like you have very little to spare.  Off with you!=당신에게 내 상품을 팔 가치를 느끼지 못하겠군. 당장 내 눈 앞에서 꺼져!
 Got some coin?  I got a blade with your name on it.=골드는 많이 벌었는가?! 마침 너를 위한 물건이 이곳에 있다!
 Lydia's Memorium=리디아의 환술점
+Special Vendor=특별한 상인
 Do you wish to clear your mind?=안 좋은 기억은 잊어버리자구나.
 Reset Skills=스킬 초기화
 Reset Stats=스텟 초기화
@@ -395,13 +465,9 @@ Uncommon=언커먼
 
 
 
-
 Hide In Shadows=그림자 은신술
 Dagger Throw=단검 던지기
 Cripple=불구자
-Fireball=파이어볼
-Immolate=이몰레이트
-Fireblast=파이어 블래스트
 Relocate=사물 이동
 Summon Raven=레이븐 소환
 Crippling Shot=크리플링 샷
@@ -409,47 +475,326 @@ Pain Suppression=통증 억제
 Chi Strike=치 스트라이크
 Front Kick=앞차기
 
+
 #스킬(불)
-
-
+Lasting Flame=라스트 플레임
+Fire Shield=파이어 실드
+Burning Reach=버닝 리치
+Fire Borne=불에서 다시 태어난자
+Hot Head I=머리는 뜨겁게 가슴은 차갑게 I
+Hot Head II=머리는 뜨겁게 가슴은 차갑게 II
+Fire Starter=불과 함께
+Cauterize=고대의 치료
+Enchant Fire=마법의 불
+Burning Ground=버닝 그라운드
+Rune of Exploding=폭발의 룬
+Aura of Flame=불꽃의 아우라
+Haste=가속
+Detonate=기폭제
+Kindling=화려하게 타다 가는자
+Fever=잔불의 주인
+Flash Fire=플래시 파이어
+Meteor=유성
+Overwhelming Power=압도적인 힘
+Fissure=균열
+Fire Storm=파이어 스톰
+Mass Haste=전체 가속
+Meteor Shower=유성우
+Fickle Flame=변덕스러운 불꽃
+Avatar of Flame=불꽃의 아바타
+Fireball=파이어볼
+Immolate=이몰레이트
+Fireblast=파이어 블래스트
+Fuel for the Flames I=불난집에 기름 붓기 I
+Fuel for the Flames II=불난집에 기름 붓기 II
 
 
 #스킬(번개)
-
-
+Lightning Shield=라이트닝 쉴드
+Shock=쇼크
+Dazzling Darts=번개 다트
+Storm Weathered I=몰려오는 폭풍 I
+Stormbringer I=폭풍을 몰고오는자 I
+Thunder Borne=썬더본
+Gathering Storm=개더링 스톰
+Stormbringer II=폭풍을 몰고오는자 II
+Storm Weathered II=몰려오는 폭풍 II
+Teleport Self=텔레포트(본인)
+Discharge=방전
+Twister=트위스터
+Enchant Lightning=마법의 번개
+Aura of Lightning=번개의 아우라
+Teleport Other=텔레포트(타인)
+Thunder Bolt=썬더 볼트
+Chain Lightning=체인 라이트닝
+Storm Brewing=폭풍을 두르는 자
+Energy Shield=에너지 실드
+Recharge=충전
+Heavy Rains=강렬한 폭풍우
+Thunder Storm=썬더 스톰
+Shocking Shackles=전기 족쇄
+Overload=과부하
+Static Field=감전 구역 생성
+Energy Cannon=에너지 캐논
+Thunder Wrath=천둥의 분노
+Conduit=번개는 어디에서나
+Thunder Struck=썬더 스트라이크
 
 
 #스킬(얼음)
-
-
+Freeze Earth=얼어붙은 대지
+Frost Armor=프로스트 아머
+Chilling Strike=서리 강타
+Frost Shard=얼어붙은 비수
+Frostbite I=강화된 동상 I
+Crystalize I=얼어붙은 피부 I
+Frost Borne=냉기의 지배자
+Break The Ice=얼음을 깨다
+Crystalize II=얼어붙은 피부 II
+Frostbite II=강화된 동상 II
+Frost Nova=프로스트 노바
+Ice Lance=아이스 랜스
+Enchant Cold=극한의 추위
+Deep Freeze=딥 프리즈
+Aura Of Frost=서리의 아우라
+Breath of Winter=겨울의 숨결
+Ice Wall=빙벽
+Frozen Spikes=프로즌 스파이크
+Cold Blooded=피 마저 얼어붙은 자
+Diamond Ice=다이아몬드 아이스
+Invulnerable Winter=무적의 겨울
+Frozen Core=프로즌 코어
+Stasis=스타시스
+Ice Storm=아이스 스톰
+Brain Freeze=브레인 프리즈
+Shatter=파쇄기
+Chain Frost=체인 프로스트
+Mass Freeze=혹한의 손길
+Master Of Ice=빙결의 지배자
+Icefall=빙벽
 
 
 #스킬(빛)
-
-
+Elemental Protection=속성 보호
+Healing Hand=힐링 핸드
+Regenerate=재생력 증가
+Cure=큐어
+Blessed By Light I=빛의 축복 I
+Empowered Light I=빛의 가호 I
+Seal of Protection=보호의 인장
+Blinding Light=눈부신 빛
+Shield of Light=빛의 방패
+Bless=축복
+Blessed By Light II=빛의 축복 II
+Empowered Light II=빛의 가호 II
+Glory=신의 영광
+Kindred Spirit=인도받은 영혼
+Light's Celerity=빛의 민첩함
+Light's Brilliance=빛의 찬란함
+Light's Strength=빛의 힘
+Light's Endurance=빛의 지구력
+Light's Beckon=빛의 부름
+Mass Cure=광역 치료
+Purify=정화
+Seal of Might=힘의 인장
+Shield of Retribution=보복의 방패
+Divine Intervention=신의 개입
+Lingering Light=잔광
+Quickening=퀵닝
+The Good Doctor=명의
+Holy Ground=성지
+Redemption=속죄
+Salvation=구세력
+Ascendancy=승승장구
+Seal of Salvation=구원의 옥새
 
 
 #스킬(그림자)
-
-
+Raise Skeletal Archer=골격 궁수 올리기
+Ghost Armor=고스트 아머
+Tainted Touch=더러워진 터치
+Blind=블라인드
+Call of the Grave=무덤의 부름
+Necromancer I=네크로맨서 I
+Necromancer II=네크로맨서 II
+Vengeful Shadows=복수의 그림자
+Dark Pact=검은 성배
+Thirst I=갈증 I
+Trouble Mind=트러블 마인드
+Spectral Chains=스펙트럼 체인
+Haunt=망령의 착취
+Curse=저주
+Raise Skeletal Warrior=스켈레톤 워리어 소환
+Purge Mana=마력 흡수
+Consumption=공물의 제단
+Soul Fracture=영혼의 골절
+Thirst II=갈증 II
+Reaper's Toll=사신의 통행료
+Hunger=탐욕자
+Leech Dexterity=리치의 민첩
+Leech Might=리치의 용기
+Leech Intelligence=리치의 지능
+Soul Link=소울 링크
+Exorcism=엑소시즘
+Dark Ritual=어둠의 의식
+Vampiric Aura=뱀피릭 아우라
+Raise Skeletal Mage=스켈레톤 메이지 소환
+Reaper's Scythe=사신의 낫
+Soul Exchange=영혼 교환
+Immortal Night=불멸의 밤
+Child of the Abyss=심연의 아이
+Lich Lord=리치의 군주
 
 
 #스킬(헌터)
-
-
+Tracker's Mark=트래커의 표시
+Rally=랠리
+Eagle Eye=이글 아이
+Survivalist I=생존 전문가 I
+Beast Master I=비스트 마스터 I
+Bounty Hunter's Mark=현상금 사냥꾼의 표식
+Stalker's Mark=추적자의 표식
+Bleeding Shot=블리딩 샷
+Pinning Shot=피닝 샷
+Precision I=정밀 I
+Survivalist II=생존 전문가 II
+Beast Master II=비스트 마스터 2
+Patient Hunter=환자 헌터
+Ranger's Gift I=레인저의 선물 I
+Quick Hands=빠른 손
+Disengage=해제
+Precision II=정밀 II
+Volley=발리
+Summon Wolf=늑대 소환
+Long Shot=롱 샷
+Piercing Shot=피어싱 샷
+Sniper Shot=스나이퍼 샷
+Called Shot=콜 샷
+Quick Draw=속사
+Dispelling Shot=디스펠링 샷
+Take Cover=저격의 달인
+Endless Quiver=끝없는 떨림
+Call of the Wild=야생의 부름
+Ranger's Gift II=레인저의 선물 II
+Marked Prey=먹이의 표식
+Mythic Reach=사냥의 신의 화신
+Slaying Shot=슬레이징 샷
+Animal Companion Grizzly=영혼의 동반자 그리즐리 소환
+Impaling Shot=임팔링 샷
+Branching Shot=브랜칭 샷
 
 
 #스킬(전사)
-
-
+Rage=분노
+Bash=강타
+Wanderer=방랑자
+Warmonger I=전쟁광 I
+Guardian I=수호자 I
+Challenger=도전자
+Into the Fray=무아지경
+Guardian II=가디언 2세
+Warmonger II=전쟁광 II
+Opportunist=기회주의자
+Bloodlet=살을 주고 뼈를 취한다
+Berserker's Rage=버서커의 분노
+Tempered Rage=격노
+Threatening Fracture=위협적인 골절
+Mortal Fracture=필멸자의 파괴
+Charge=차지
+Slam=슬램
+Warrior's Boon=전사의 포효
+Howl=광기의 전염
+Bleeding Cleave=블리딩 클리브
+Life Cleave=라이프 클리브
+Furious George=분노한 왕
+Shield Mastery=실드 마스터
+Two-Handed Mastery=양손 무기 마스터
+Dual-Wield Mastery=검방의 마스터
+Beserker's Blood=베르세르크의 피
+Executioner=사형 집행인
+Blood Drinker=블러드 드링커
+Bone Collector=본 콜렉터
+Vitality Break=바이탈리티 브레이크
+Crushing Slam=크러싱 슬램
+Stunning Slam=강렬한 슬램
+Unyielding Contender=불굴의 경쟁자
+Sunder=피에 잠식된 자의 참격
+Colossus=공포는 전염된다
+Indestructible=불멸자
 
 
 #스킬(도적)
+Escape=긴급 탈출
+Poison Weapon=포이즌 웨폰
+Death Dealer I=데스 딜러 I
+Swiftness=가벼운 발걸음
+Ambush I=매복 I
+Fencer's Finesse I=암살자의 기본 I
+Fencer's Finesse II=암살자의 기본 II
+Ambush II=매복 II
+Shroud=사라진 존재감
+Death Dealer II=데스 딜러 II
+Evasion=회피
+Gouge=사기 행각
+Maim=마임
+Deadly Dagger=날카로운 단검
+Poisoned Dagger=독이 묻은 단검
+Garrote=지혈
+Steal Action=행동력 도둑
+Steal Status=스텟 도둑
+Uncanny Evasion=기이한 회피
+Enduring Evasion=지속적인 회피
+Hidden Blade=숨겨놓은 칼날
+En Garde=앙가르드(자세 잡기)
+Fight Dirty=더티 파이팅
+Fade=죽음은 바람과도 같지...
+Calculated Risk=계산된 위험
+Contaminated Wound=오염된 상처
+Master Assassin=마스터 어쌔신
+Smoke Bomb=연막탄
+Shadow Walk=그림자 발걸음
+Rupture=파열
+Gore=고어
+Sleight of Hand=재빠른 손재주
+Deathblow=데스블로우
+Soft Step=소프트 스텝
+Tricks of the Trade=신을 속이는 자
 
 
 
 
 #스킬(몽크)
+Incapacitate=무력화
+Momentum I=기세 I
+Contemplation I=사색 I
+Masochism I=굳건한 피부 I
+Endurance I=지구력 I
+Endurance II=지구력 II
+Momentum II=기세 II
+Stunning Kick=스턴 킥
+Force Kick=포스 킥
+Paralyzing Strike=마비의 타격
+Focused Strike=집중 타격
+Contemplation II=사색 II
+Masochism II=굳건한 피부 II
+Dashing Strikes=돌진의 타격
+Sweeping Kick=스위핑 킥
+Meditation=명상
+Falcon Dash=팔콘 대시
+Combo Breaker=콤보 브레이커
+Willpower=의지력
+Weapon of Choice=만병지왕
+Crash and Flow=충돌과 흐름
+Speed=속도
+Strength=힘
+Soul Cleanse=영혼의 정화
+Cyclone Kick=사이클론 킥
+Power Strikes=강한 타격
+Dodging Strikes=타격 회피
+Quaking Fist=떨리는 주먹
+Many Sided Strike=다중 타격
+Perfected Soul=완벽한 영혼
+One Punch Monk=원 펀치 몽크
 
 
 Active Skills=액티브 스킬
@@ -457,6 +802,11 @@ Close=닫기
 Passive Skills=패시브 스킬
 Fire=마법(불)
 Cold=마법(얼음)
-Shadow=그림자
-Light=빛
+Shadow=마법(어둠)
+Light=마법(빛)
 Lightning=마법(번개)
+
+
+Double Edge=더블 에지
+Cleave=클리브
+Fracture=골절

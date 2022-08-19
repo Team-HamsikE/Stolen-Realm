@@ -1,4 +1,7 @@
+Loading.=로딩 중.
+Loading..=로딩 중..
 Loading...=로딩 중...
+
 Difficulty Balancing=난이도 밸런스 조절
 Stolen Realm is in early access. Our latest update has given bosses all new exciting themed mechanics to challenge everyone. <color\=#CBB396>Experience</color> and epic <color\=#CBB396>Loot</color> have been increased to match! We hope you enjoy and look forward to your feedback.\n\nWe've also renamed the difficulties and added descriptions to help you find the perfect challenge level for your adventure.=Stolen Realm은 얼리억세스 중입니다. 모든 사람이 도전할 수 있는 흥미로운 주제들을 계속 업데이트 하고 있습니다. 다양한 <color\=#CBB396>난이도</color>와 그에 걸맞는 <color\=#CBB396>전리품</color>이 추가 되었습니다! 즐거운 시간 되시길 바라며, 여러분의 피드백을 기다리겠습니다.\r\n\r\n한국어 번역: LowJhin, 한서화.
 
@@ -17,6 +20,11 @@ Skill Allocation=스킬 할당
 You can use <color\=#CBB396>Skill Points</color> to learn skills.  Click on skill icons to assign and unassign skill points.=사용할 수 있습니다. <color\=#CBB396>스킬 포인트</color> 기술을 배우려고.  스킬 포인트를 할당하거나 할당 취소하려면 스킬 아이콘을 클릭합니다.
 Destructibles=파괴 가능 오브젝트
 You'll find <color\=#CBB396>Barrels</color>, <color\=#CBB396>Crates</color>, and other destructible objects around the battlefield.  You can use <color\=#CBB396>Move Object</color> to move them to strategic locations to help you in battle.=전투가 가능한 맵 곳곳에서 <color\=#CBB396>나무 통</color>이나, <color\=#CBB396>나무 상자</color>같은 파괴 가능한 오브젝트를 찾을 수 있습니다. <color\=#CBB396>오브젝트 이동</color>을 사용하여 전투에 도움이 되는 전략적 위치로 이동할 수 있습니다.
+Level Up=레벨 업
+You've leveled up!\nAllocate your new <color\=#CBB396>Skill Point</color> and <color\=#CBB396>Attribute Points</color>.=레벨이 올랐습니다!\n <color\=#CBB396>스킬 포인트</color>와 <color\=#CBB396>스텟 포인트</color>를 원하는 곳에 사용하세요.
+New Act Unlocked!=새로운 액트가 해금되었습니다!
+Shops have unlocked new <color\=#CBB396>Store Items</color> and <color\=#CBB396>Crafting Recipes</color>!\n\nYou've unlocked side quest for Mines!\n\nChallenges will randomly respawn here for you to defeat. Earn additional experience, gold, and loot by defeating the bosses that reside here.=상점에는 새로운 물건들과 레시피들이 들어왂고,\n\n<color\=#CBB396>광산</color>의 사이드 퀘스트가 해금 되었습니다.\n\n당신을 패배시키기 위한 챌린지도 무작위로 튀어 나올 수도 있습니다! 챌린지를 성공하고, 보스를 잡아 더 많은 보상을 획득하세요!
+
 
 
 
@@ -33,7 +41,6 @@ Battle\nHard Battle\nEvent\nTreasure\nShop\nMaterials\nRest\nBoss\n\n=전투\r\n
 Leave=나가기
 Continue=계속
 Move Object=오브젝트 이동
-Shrine of the Conqueror=정복자의 사당
 End Turn=턴 종료
 Breezywind Village=산들바람 마을
 Quest Failed=퀘스트 실패
@@ -47,12 +54,18 @@ To Town=마을로 귀환
 Consumables=소모품
 Path Chosen=선택한 경로
 [Fight!]=[전투!]
+Fish=낚시
+Mine=채광
 investigate=조사
 Harvest=수확
+Activate=활성화
 Quest Reward=퀘스트 보상
 Start Quest=퀘스트 수락
 Equip=장착
 Split=나누기
+Unequiped=장착 해제
+Travel=이동
+Skip=스킵
 Destroy=제거
 Link In Chat=아이템 확성기
 Equipped=장착 중
@@ -77,6 +90,13 @@ Your party lost the last battle.  How would you like to proceed?=방금 전 전�
 Retry=다시 도전한다
 Abandon Quest=퀘스트를 포기하고 마을로 돌아간다
 Lower Difficulty=난이도를 낮춘다
+Battle Rewards=전투 보상
+Item Received=얻은 아이템
+No items received=아이템을 얻지 못했습니다.
+
+
+#이벤트 이름
+Shrine of the Conqueror=정복자의 사당
 
 
 
@@ -407,25 +427,35 @@ Weapon=무기
 Shield=방패
 Material=재료
 Commodity=보석
-Armorer=갑옷
 Crafting List=제작 가능 물품
 Sort by Rarity=정렬 기준: 희귀도
 Sort by Completion=정렬 기준: 완성 가능
 Required Materials: 필요 재료
-Gareth's Trinkets=가드너의 세공점
+
 Jeweler=보석 세공인
+Gareth's Trinkets=가드너의 세공점
+Omar's Accessories=오마의 악세사리 판매점
 Greeting traveler!  Fancy a mystical amulet or enchanted ring?  You've come to the right place!=어서오게! 특별한 아뮬렛이나 반지를 찾고있나? 제대로 찾아온걸세!
 Come see the finest jewelry in all the Stolen Realm!=잊혀진 왕국 최고의 세공사인 내 작품을 구경해보지 않겠는가?
-Mali's Concoctions=말리의 공방
+
 Potion Maker=포션 양조사
+Mali's Concoctions=말리의 공방
+Ahmed's Tonics=아흐메드의 양조실
 No, I do not sell love potions.=안타깝지만, 사랑의 묘약은 판매하고 있지 않아요.
 Take a look at my wares.  A good potion can turn the tide of battle!=뛰어난 포션은 전투의 판도를 뒤집을 수 있죠.
+
+Armorer=무기 담당관
 Zarek's Armory=제릭의 대장간
+Sarah's Weaponry=사라의 무기점
 You look like you have very little to spare.  Off with you!=당신에게 내 상품을 팔 가치를 느끼지 못하겠군. 당장 내 눈 앞에서 꺼져!
 Got some coin?  I got a blade with your name on it.=골드는 많이 벌었는가?! 마침 너를 위한 물건이 이곳에 있다!
-Lydia's Memorium=리디아의 환술점
+
 Special Vendor=특별한 상인
+Lydia's Memorium=리디아의 환술점
+Noor's Materials=노어의 재료 상점
 Do you wish to clear your mind?=안 좋은 기억은 잊어버리자구나.
+I've traveled all across the Stolen Realm collecting useful materials and artifacts.  Take a look!=왕국 이곳 저곳을 돌아디나면서 쓸 만한 재료들과 유용한 아티펙트들을 모아왔지, 한번 보고 갈래?
+
 Reset Skills=스킬 초기화
 Reset Stats=스텟 초기화
 Stash=보관함
